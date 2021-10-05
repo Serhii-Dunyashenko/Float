@@ -1,0 +1,128 @@
+.a1 {
+  background-color: blue;
+  width: 48px;
+  height: 48px;
+  float: left;
+}
+.a2 {
+  width: 48px;
+  background-color: brown;
+  height: 48px;
+  float: right;
+}
+.clearfix {
+  clear: both;
+}
+.main {
+  background-color: dimgray;
+  margin: 20px 0px;
+}
+.ba {
+  background-color: blue;
+  width: 80px;
+  height: 80px;
+  float: left;
+}
+.bb {
+  float: right;
+}
+.b1 {
+  display: inline-block;
+  width: 48px;
+  background-color: brown;
+  height: 48px;
+}
+.b2 {
+  display: inline-block;
+  width: 48px;
+  background-color: rgb(42, 142, 165);
+  height: 48px;
+}
+.b3 {
+  display: inline-block;
+  width: 48px;
+  background-color: rgb(83, 165, 42);
+  height: 48px;
+}
+.b4 {
+  display: inline-block;
+  width: 48px;
+  background-color: rgb(165, 42, 128);
+  height: 48px;
+}
+.ca {
+  float: left;
+}
+.cb {
+  float: right;
+}
+.c1 {
+  display: inline-block;
+  background-color: blue;
+  width: 80px;
+  height: 80px;
+}
+.c2 {
+  display: inline-block;
+  background-color: rgb(255, 0, 170);
+  width: 80px;
+  height: 80px;
+}
+.c3 {
+  display: inline-block;
+  background-color: rgb(255, 153, 0);
+  width: 80px;
+  height: 80px;
+}
+.c4 {
+  display: inline-block;
+  background-color: rgb(0, 229, 255);
+  width: 80px;
+  height: 80px;
+  float: right;
+}
+.d1 {
+  background-color: dodgerblue;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+}
+.d2 {
+  background-color: rgb(255, 30, 30);
+  width: 48px;
+  height: 48px;
+}
+.d3 {
+  background-color: rgb(25, 130, 23);
+  width: 48px;
+  height: 48px;
+}
+.dcontainer {
+  margin: 0 auto;
+  width: 200px;
+}
+.db {
+  display: inline-block;
+}
+.e1 {
+  background-color: dodgerblue;
+  width: 80px;
+  height: 80px;
+  display: inline-block;
+}
+.e2 {
+  background-color: rgb(255, 30, 30);
+  width: 48px;
+  height: 48px;
+}
+.e3 {
+  background-color: rgb(25, 130, 23);
+  width: 48px;
+  height: 48px;
+}
+.econtainer {
+  float: right;
+}
+.eb {
+  display: inline-block;
+}
